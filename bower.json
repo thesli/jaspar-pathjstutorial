@@ -1,0 +1,8 @@
+{
+    "name":"pathjstut",
+    "dependencies":{
+        "jquery":"*",
+        "bootstrap":"*",
+        "pathjs":"*"
+    }
+}
