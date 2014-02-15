@@ -1,19 +1,19 @@
 $ ->
   removeActiveLinkColor = ->
     $(".active").removeClass "active"
-  addActiveLinkColor = ->
-
+  addActiveLinkColor = (selectorName)->
+    $(selectorName).addClass "active"
   $content = $('#content')
   Path.map("#/linkA").to ->
     $content.load "pageA.html"
     removeActiveLinkColor()
-    $("a[href='#/linkA']").addClass "active"
+    addActiveLinkColor("a[href='#/linkA']")
   Path.map("#/linkB").to ->
     $content.load "pageB.html"
     removeActiveLinkColor()
-    $("a[href='#/linkB']").addClass "active"
+    addActiveLinkColor("a[href='#/linkB']")
   Path.map("#/linkC").to ->
     $content.load "pageC.html"
     removeActiveLinkColor()
-    $("a[href='#/linkC']").addClass "active"
+    addActiveLinkColor("a[href='#/linkC']")
   Path.listen()

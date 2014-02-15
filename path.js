@@ -5,22 +5,24 @@
     removeActiveLinkColor = function() {
       return $(".active").removeClass("active");
     };
-    addActiveLinkColor = function() {};
+    addActiveLinkColor = function(selectorName) {
+      return $(selectorName).addClass("active");
+    };
     $content = $('#content');
     Path.map("#/linkA").to(function() {
       $content.load("pageA.html");
       removeActiveLinkColor();
-      return $("a[href='#/linkA']").addClass("active");
+      return addActiveLinkColor("a[href='#/linkA']");
     });
     Path.map("#/linkB").to(function() {
       $content.load("pageB.html");
       removeActiveLinkColor();
-      return $("a[href='#/linkB']").addClass("active");
+      return addActiveLinkColor("a[href='#/linkB']");
     });
     Path.map("#/linkC").to(function() {
       $content.load("pageC.html");
       removeActiveLinkColor();
-      return $("a[href='#/linkC']").addClass("active");
+      return addActiveLinkColor("a[href='#/linkC']");
     });
     return Path.listen();
   });
