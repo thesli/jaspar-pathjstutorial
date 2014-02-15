@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c4aa53d-4df1-4213-ad45-b6f482732e24" name="Default" comment="" />
+    <list default="true" id="9c4aa53d-4df1-4213-ad45-b6f482732e24" name="Default" comment="changed to good page&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pageA.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pageB.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/pageC.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jade/script.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/path.coffee" afterPath="$PROJECT_DIR$/path.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/path.js" afterPath="$PROJECT_DIR$/path.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/path.map" afterPath="$PROJECT_DIR$/path.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="pathJStut.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,13 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
+      <file leaf-file-name="path.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/path.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="114" selection-end="114" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1045">
-              <folding>
-                <marker date="1392441584621" expanded="true" signature="0:122" placeholder="{&quot;name&quot;: &quot;pathjstut&quot;...}" />
-              </folding>
+            <state line="19" column="0" selection-start="538" selection-end="538" vertical-scroll-proportion="0.29111338" vertical-offset="0" max-vertical-offset="1249">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -37,16 +49,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="15" selection-start="289" selection-end="289" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="883">
+            <state line="6" column="9" selection-start="171" selection-end="171" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="path.coffee" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/path.coffee">
+      <file leaf-file-name="menu.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jade/menu.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="15" selection-start="224" selection-end="224" vertical-scroll-proportion="0.20797227" vertical-offset="0" max-vertical-offset="682">
+            <state line="4" column="19" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1024">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jade/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="25" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1114">
               <folding />
             </state>
           </provider>
@@ -55,7 +76,7 @@
       <file leaf-file-name="pageB.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageB.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="630">
+            <state line="7" column="12" selection-start="287" selection-end="287" vertical-scroll-proportion="-2.5" vertical-offset="45" max-vertical-offset="1032">
               <folding />
             </state>
           </provider>
@@ -64,7 +85,7 @@
       <file leaf-file-name="pageC.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageC.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="630">
+            <state line="0" column="0" selection-start="0" selection-end="287" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1032">
               <folding />
             </state>
           </provider>
@@ -73,7 +94,7 @@
       <file leaf-file-name="pageA.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageA.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="12" selection-start="287" selection-end="287" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="630">
+            <state line="7" column="12" selection-start="304" selection-end="304" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="1032">
               <folding />
             </state>
           </provider>
@@ -86,15 +107,28 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/bower.json" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/pageA.html" />
-        <option value="$PROJECT_DIR$/path.coffee" />
         <option value="$PROJECT_DIR$/pageB.html" />
         <option value="$PROJECT_DIR$/pageC.html" />
+        <option value="$PROJECT_DIR$/pageA.html" />
+        <option value="$PROJECT_DIR$/jade/index.html" />
+        <option value="$PROJECT_DIR$/jade/menu.jade" />
+        <option value="$PROJECT_DIR$/jade/index.jade" />
+        <option value="$PROJECT_DIR$/jade/pageB.html" />
+        <option value="$PROJECT_DIR$/jade/pageB.jade" />
+        <option value="$PROJECT_DIR$/jade/pageC.jade" />
+        <option value="$PROJECT_DIR$/jade/script.coffee" />
+        <option value="$PROJECT_DIR$/jade/layout.jade" />
+        <option value="$PROJECT_DIR$/jade/pageA.jade" />
+        <option value="$PROJECT_DIR$/jade/pageA.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/path.coffee" />
       </list>
     </option>
   </component>
@@ -103,14 +137,33 @@
     <option name="width" value="960" />
     <option name="height" value="1058" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -129,7 +182,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,21 +200,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pathJStut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pathJStut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="settings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jade" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63343/pathJStut/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost/pathJStut/jade/pageA.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -203,44 +281,69 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9c4aa53d-4df1-4213-ad45-b6f482732e24" name="Default" comment="" />
       <created>1392441584680</created>
       <updated>1392441584680</updated>
     </task>
+    <task id="LOCAL-00001" summary="changed to good page&#10;&#10;">
+      <created>1392442723948</created>
+      <updated>1392442723948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="960" height="1058" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24634655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39960238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39960238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -256,51 +359,145 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="changed to good page&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed to good page&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bower.json">
+    <entry file="file://$PROJECT_DIR$/path.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="114" selection-end="114" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="1045">
-          <folding>
-            <marker date="1392441584621" expanded="true" signature="0:122" placeholder="{&quot;name&quot;: &quot;pathjstut&quot;...}" />
-          </folding>
+        <state line="5" column="30" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pageB.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="630">
+        <state line="4" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="135">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pageC.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="16" selection-end="16" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="630">
+        <state line="7" column="12" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="135">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pageA.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="12" selection-start="287" selection-end="287" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="630">
+        <state line="7" column="12" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="122" selection-end="122" vertical-scroll-proportion="0.109947644" vertical-offset="0" max-vertical-offset="1045" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.30643514" vertical-offset="0" max-vertical-offset="1264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pageB.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="15" selection-start="351" selection-end="351" vertical-scroll-proportion="0.25" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/script.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="20" selection-start="55" selection-end="55" vertical-scroll-proportion="0.05319149" vertical-offset="0" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pageA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="159" selection-end="159" vertical-scroll-proportion="0.11111111" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pageC.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="33" selection-start="107" selection-end="107" vertical-scroll-proportion="0.13297872" vertical-offset="0" max-vertical-offset="624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pageB.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="95" selection-end="95" vertical-scroll-proportion="0.13297872" vertical-offset="0" max-vertical-offset="624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/pageA.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="95" selection-end="95" vertical-scroll-proportion="0.13297872" vertical-offset="0" max-vertical-offset="624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageC.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1032">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="304" selection-end="304" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="1032">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageB.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="287" selection-end="287" vertical-scroll-proportion="-2.5" vertical-offset="45" max-vertical-offset="1032">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jade/menu.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1024">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="15" selection-start="289" selection-end="289" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="883">
+        <state line="6" column="9" selection-start="171" selection-end="171" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/path.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="15" selection-start="224" selection-end="224" vertical-scroll-proportion="0.20797227" vertical-offset="0" max-vertical-offset="682">
+        <state line="19" column="0" selection-start="538" selection-end="538" vertical-scroll-proportion="0.29111338" vertical-offset="0" max-vertical-offset="1249">
           <folding />
         </state>
       </provider>
